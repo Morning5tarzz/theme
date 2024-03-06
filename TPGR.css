@@ -1,5 +1,5 @@
 :root{
-     --background: url('ihttps://r4.wallpaperflare.com/wallpaper/589/95/715/seymour-science-fiction-anime-girls-motobike-punishing-gray-raven-hd-wallpaper-06bb99f881bf488806699d668eade5ac.jpg');
+     --background: url('https://r4.wallpaperflare.com/wallpaper/589/95/715/seymour-science-fiction-anime-girls-motobike-punishing-gray-raven-hd-wallpaper-06bb99f881bf488806699d668eade5ac.jpg');
      --activetext-colour: white;
  
      --primary1-colour: red;
@@ -17,6 +17,8 @@
      --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
  }
    
+ /*
+
  */
  
 /*--------------------------------------------------------*/
